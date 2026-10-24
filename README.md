@@ -1,11 +1,11 @@
 # HR-Analytics
 
-## Power BI Project
+### Power BI Project
 This project analyzes HR data to monitor employee headcount, turnover, attrition rates, and workforce demographics. A comprehensive Power BI report was developed to visualize employee distribution, promotion trends, and work-life balance across departments and branches. The report helps HR professionals identify workforce trends, analyze attrition patterns, and make data-driven decisions for effective workforce planning.
 
-## Tools Covered : Advanced Excel, Power BI, Power Query
+### Tools Covered : Advanced Excel, Power BI, Power Query
 
-## Key Performance Indicators (KPIs):
+### Key Performance Indicators (KPIs):
 
 • Headcount
 
@@ -37,7 +37,7 @@ This project analyzes HR data to monitor employee headcount, turnover, attrition
 
 • Turnover by Department
 
-## Dashboard Visualizations:
+### Dashboard Visualizations:
 
 • Cards
 
@@ -57,10 +57,10 @@ This project analyzes HR data to monitor employee headcount, turnover, attrition
 
 • Funnel Chart
 
-## Interactive Features:
+### Interactive Features:
 
 • Slicers
 
-## Dashboard Preview:
+### Dashboard Preview:
 
 ![HR Analytics](HR%20Analytics.png)
